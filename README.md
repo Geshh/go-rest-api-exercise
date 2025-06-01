@@ -1,1 +1,1 @@
-# go-programming-udemy
+# go-rest-api-exercise
